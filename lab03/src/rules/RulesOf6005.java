@@ -11,7 +11,7 @@ public class RulesOf6005 {
             return true;
         }
         
-        // If not written by yourself, check the conditions for using others' work.
+        // If not written by yourself, check the conditions for using others' work
         // You cannot use code from past coursework unless it meets specific criteria.
         if (!writtenByYourself) {
             // If the code is available to others, it might be reusable.
